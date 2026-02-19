@@ -30,8 +30,8 @@ export default function Footer() {
           <h4 className="font-semibold text-slate-800 mb-3">
             Contact
           </h4>
-          <p>Email: support@reoyh.com</p>
-          <p>Phone: +91 XXXXX XXXXX</p>
+          <p>Email: reoyhoutreach@gmail.com</p>
+          <p>Phone: +91 99106 69520</p>
           <p>India</p>
         </div>
 
